@@ -1,3 +1,8 @@
-import my_math
+def repeat(a,b):
+    for i in range(a):
+        print(b)
+    
 
-print(my_math.add(1, 2))
+repeat(3,3)
+            
+
